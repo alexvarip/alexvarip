@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Alex
 
-⚡ I’m currently learning and working on the .NET environment...
+⚡ I’m currently learning and working on the .NET environment with C# as my main programming language.
 
 
 
