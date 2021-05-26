@@ -1,7 +1,10 @@
 ### Hi there 👋, I'm Alex
 
-⚡ I’m currently learning and working on the .NET environment with C# as my main programming language.
+[![](https://vistr.dev/badge?repo=alexvarip.alexvarip&corners=square)](https://github.com/alexvarip/vistr.dev) 
+[![](https://img.shields.io/badge/-@alexvarip-purple?style=square&logo=github)](https://github.com/alexvarip)
+[![](https://img.shields.io/badge/-Alex%20Varypatis-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-varypatis/)](https://www.linkedin.com/in/alex-varypatis/)<br>
 
+⚡ I’m currently learning and working on the .NET environment with C# as my main programming language.
 
 
 
