@@ -9,8 +9,7 @@
 
 ### 𝗦𝘁𝗮𝘁𝘀
 <!--[![alexvarip's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexvarip&show_icons=true)](https://github.com/alexvarip/github-readme-stats)-->
-[![alexvarip's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexvarip&show_icons=true&theme=radical)
-
+[![alexvarip's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexvarip&show_icons=true&theme=radical)](https://github.com/alexvarip/github-readme-stats)
 
 
 
