@@ -7,6 +7,12 @@
 ⚡ I’m currently learning and working on the .NET environment with C# as my main programming language.
 
 
+### 𝗦𝘁𝗮𝘁𝘀
+<!--[![alexvarip's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexvarip&show_icons=true)](https://github.com/alexvarip/github-readme-stats)-->
+[![alexvarip's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexvarip&show_icons=true&theme=radical)
+
+
+
 
 
 <!--
