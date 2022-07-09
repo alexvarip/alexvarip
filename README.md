@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-@alexvarip-purple?style=square&logo=github)](https://github.com/alexvarip)
 [![](https://img.shields.io/badge/-Alex%20Varypatis-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-varypatis/)](https://www.linkedin.com/in/alex-varypatis/)<br>
 
-⚡ I’m currently learning and working on the .NET environment with C# as my main programming language.
+⚡ I’m currently learning and working on the .NET environment using C# as my main programming language.
 
 
 ### 𝗦𝘁𝗮𝘁𝘀
